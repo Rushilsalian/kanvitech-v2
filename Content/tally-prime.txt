@@ -1,0 +1,105 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: TALLY PRIME
+Final content - section-wise
+==========================================================
+
+SCOPE NOTE: This is the flagship Tally software page. Related
+pages - TallyPrime Server (heavy multi-user), TSS (subscription),
+Tally on Cloud (remote access), Tally Customization, Tally Add-On,
+Tally Services - all cross-link from here.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+TallyPrime in Mumbai - Complete Business Management Software
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+One software to run your accounts, invoicing, inventory, GST and more - TallyPrime, supplied and set up by Kanvtech.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+TallyPrime is an all-in-one business management software that handles the everyday running of your business in one place. From accounting and invoicing to inventory, GST, banking and reports, it brings everything together so you spend less time juggling tools and more time growing. It's known for being genuinely simple to use, with consistent navigation that your team picks up quickly.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For businesses of every stage - startups finding their feet, small and medium businesses managing daily accounts, and growing companies that need more power. Use it for invoicing, accounting, inventory, GST and compliance, banking, payroll and clear business reports. It runs on a single PC (Silver), across a network (Gold), or on the cloud.
+
+
+----------------------------------------------------------
+KEY FEATURES
+----------------------------------------------------------
+- Accounting, invoicing and receivables/payables in one place
+- Inventory management with multiple godowns and real-time stock view
+- GST made easy - direct GSTR-1 / GSTR-3B filing, auto-reconciliation, e-invoice & e-way bill
+- Connected banking & payments with live balances and auto-reconciliation
+- Smart reports - dashboards, personalised views and SmartFind to locate any entry
+- Multi-user on a network (Gold) or single user (Silver), with cloud access option
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Run your whole business from one simple, reliable platform
+- Stay compliant with built-in GST checks that catch errors before filing
+- Cut hours of manual work - many tasks that took half a day now take minutes
+- Keep your data safe even through power cuts or network drops
+- Access your reports and stay in control from anywhere
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What's the difference between TallyPrime Silver and Gold?
+A: Silver is a single-user licence for one PC. Gold is a multi-user licence that lets your whole team work on the same data across a network.
+
+Q: Can TallyPrime handle GST and e-invoicing?
+A: Yes. You can file GSTR-1 and GSTR-3B directly, auto-reconcile returns, and generate e-invoices and e-way bills from inside Tally.
+
+Q: Is TallyPrime hard to learn?
+A: Not at all. It's built to be simple, with consistent navigation, so your team gets comfortable with it quickly. We also provide training if needed.
+
+Q: Can I use TallyPrime from outside the office?
+A: Yes - through TallyPrime Cloud Access, you can use it remotely from any device. (See our Tally on Cloud page.)
+
+Q: Do you help with installation and setup?
+A: Absolutely. Kanvtech supplies the licence and sets TallyPrime up for your business, with support and training available afterwards.
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Ready to get started with TallyPrime, or upgrading from an older version? Book a Free Demo or Send an Enquiry, and Kanvtech will guide you to the right licence and set it up.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: buy tallyprime mumbai / tallyprime software mumbai
+Secondary: tallyprime silver gold, tally accounting software, tally gst software, tallyprime dealer mumbai
+Meta title idea: TallyPrime in Mumbai - Complete Business Management Software | Kanvtech
+Meta description idea: TallyPrime handles accounting, invoicing, inventory, GST and banking in one simple platform. Licence, setup and support by Kanvtech in Mumbai. Book a free demo.
+Internal link: cross-link to "Tally Prime Server", "Tally Software Services", "Tally on Cloud", "Tally Customization" and "Tally Services" pages.
+
+NOTE (positioning): Kanvtech SUPPLIES, SETS UP & SUPPORTS
+TallyPrime - NOT an authorised Tally partner. Wording stays "we
+supply / we set up / we support."
+PRICING: source lists Silver ₹22,500 / Gold ₹67,500 + GST (Tally
+MRP; rental options too). Standard rates - kept off the page for a
+static site, but client may add them since they're standard.
+Confirm before publishing.
+DO NOT claim Tally's own stats ("2.5M businesses", "1 lakh
+certified candidates") as Kanvtech's.
+
+
+==========================================================
+END OF TALLY PRIME PAGE
+==========================================================

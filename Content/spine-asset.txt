@@ -1,0 +1,102 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: SPINE ASSET
+Final content - section-wise
+==========================================================
+
+POSITIONING NOTE: Spine is a product Kanvtech is AUTHORISED to
+provide. Here we CAN say "authorised Spine partner". (Contrast
+with Tally pages, where we only provide services.)
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Spine Asset - Fixed Asset Management Software in Mumbai
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Track every asset, automate depreciation and stay audit-ready - Spine Asset, implemented and supported by Kanvtech, an authorised Spine partner.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Spine Asset is fixed asset management software that brings order to how your business tracks and maintains its assets. Instead of scattered spreadsheets and missed renewals, you get one place to record every asset, calculate depreciation automatically, and know exactly what you own, where it is, and what condition it's in. It takes asset management from chaos to clarity.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For any business with assets worth tracking - used across industries like manufacturing, infrastructure, textiles, healthcare, automobile and agriculture. It suits companies managing equipment across multiple locations or branches, those needing clean records at audit time, and teams that keep losing track of warranties, AMCs and maintenance schedules.
+
+
+----------------------------------------------------------
+KEY FEATURES
+----------------------------------------------------------
+- Asset tracking across locations, with status, location and assignment
+- Automated depreciation calculation and scheduling
+- Fixed asset register and schedule with full purchase and status history
+- Barcode integration for quick, error-free asset tracking
+- Physical verification to match real assets against records
+- Warranty, AMC and insurance tracking with timely email/dashboard reminders
+- Access levels and audit trail (maker-checker) for control and accountability
+- Custom reports (DIY report writer) and accounting software integration
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Always know what you own, where it is, and its current value
+- Save time and cut errors with automation and barcode scanning
+- Never miss a renewal, AMC or maintenance date again
+- Walk into audits with accurate, ready records across all branches
+- Keep control with clear approvals and a full audit trail
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What does Spine Asset actually do?
+A: It helps you track all your company's fixed assets, automate depreciation, manage maintenance and warranties, and keep audit-ready records - all in one place.
+
+Q: Can it handle assets across multiple branches or locations?
+A: Yes. You can track and manage assets across multiple companies, locations and branches, with workflows and approvals built in.
+
+Q: Does it calculate depreciation automatically?
+A: Yes. Spine Asset automatically calculates and schedules depreciation, so your asset values stay accurate without manual work.
+
+Q: Can it connect with our accounting software?
+A: Yes. Asset data can sync with your accounting software for smooth financial management and reporting.
+
+Q: How does it help at audit time?
+A: With a complete asset register, audit trail and exportable records, you have accurate, organised data ready whenever an audit comes up.
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Tired of chasing asset records and renewal dates? Let Spine Asset handle it. Book a Free Demo or Send an Enquiry, and Kanvtech will set you up.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: fixed asset management software mumbai
+Secondary: spine asset, asset tracking software india, depreciation software, asset register software, barcode asset management
+Meta title idea: Spine Asset - Fixed Asset Management Software in Mumbai | Kanvtech
+Meta description idea: Track assets, automate depreciation and stay audit-ready with Spine Asset. Barcode tracking, AMC reminders, audit trail. Set up by Kanvtech, authorised Spine partner.
+Internal link: cross-link to "Spine Payroll", "Spine HR Suite" and "Customize Solutions" pages.
+
+NOTE: Spine = AUTHORISED partner - use that as a trust signal.
+Ignore the stray "all-in-one HRMS" line in the source scrape - it
+was a copy-paste error on Spine's site; Spine Asset is asset
+software, not HRMS.
+No pricing on source - none added (enquiry-based).
+
+
+==========================================================
+END OF SPINE ASSET PAGE
+==========================================================

@@ -1,0 +1,105 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: TALLY SOFTWARE SERVICES (TSS)
+Final content - section-wise
+==========================================================
+
+SCOPE NOTE: TSS is Tally's OWN subscription product that adds
+connected services to TallyPrime. Kanvtech provides & renews it.
+Different from "Tally Services" (Kanvtech's hands-on support) -
+keep separate and cross-link.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Tally Software Services (TSS) in Mumbai
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Unlock the connected side of TallyPrime - GST, banking, backups and remote access - with a TSS subscription from Kanvtech.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Tally Software Services, or TSS, is a subscription that adds a layer of connected services on top of your TallyPrime. It's what keeps your software current with the latest features and statutory changes, and unlocks online abilities like GST filing, connected banking, cloud backup and remote access to your reports. In short, it turns Tally from a standalone tool into a connected one.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For any business on TallyPrime that wants more than offline accounting - handling GST and e-invoicing inside Tally, making and reconciling payments through connected banking, backing up to the cloud, syncing data across branches, or checking reports from a phone. Every new TallyPrime licence comes with TSS for the first year; after that, it needs renewal to keep these services running.
+
+
+----------------------------------------------------------
+WHAT TSS GIVES YOU
+----------------------------------------------------------
+- Connected GST - download, reconcile and act on invoices, file GSTR-1 and GSTR-3B, and generate e-invoices & e-way bills inside Tally
+- Connected banking & payments - make and reconcile payments, track transactions, and send UPI/QR payment links
+- TallyDrive - automatic, secure cloud backup with easy recovery
+- Free product upgrades and major releases
+- Online access to your business reports from any device
+- Online data sync and consolidation across branches and locations
+- WhatsApp for Business integration
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Stay compliant with the latest GST and statutory updates, automatically
+- Handle GST and banking without leaving Tally or visiting the portal
+- Keep your data safe with automatic cloud backups
+- Check your numbers and make decisions from anywhere
+- Get a clear, consolidated view across all your locations
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What exactly does a TSS subscription do?
+A: It keeps your TallyPrime updated and unlocks connected features - GST filing, banking, cloud backup, remote report access and data sync across locations.
+
+Q: Do I get TSS when I buy TallyPrime?
+A: Yes. Every new TallyPrime licence includes TSS validity for the first 12 months. After that, you renew it to keep the connected services active.
+
+Q: What happens if my TSS expires?
+A: Your Tally keeps working, but you lose access to updates and connected services like GST filing, banking and online reports until you renew.
+
+Q: What plans are available?
+A: TSS comes in Silver (single user), Gold (multi-user) and Auditor editions, with 1-year and 2-year options. We'll recommend the right one and share current pricing on enquiry.
+
+Q: How is TSS different from Tally Services?
+A: TSS is Tally's official subscription product. Tally Services is our hands-on support - setup, troubleshooting, AMC and training. (See our Tally Services page.)
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Need to activate or renew your TSS? Kanvtech makes it quick and easy. Book a Free Demo or Send an Enquiry to get started.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: tally software services (tss) mumbai
+Secondary: tss renewal, tally tss subscription, tally connected services, tally gst banking, tally drive backup
+Meta title idea: Tally Software Services (TSS) in Mumbai | Kanvtech
+Meta description idea: Activate or renew TSS to unlock connected GST, banking, cloud backup and remote access in TallyPrime. Plans and renewals handled by Kanvtech. Enquire now.
+Internal link: cross-link to "Tally Services", "Tally Prime" and "Tally on Cloud" pages.
+
+NOTE (positioning): Kanvtech PROVIDES & RENEWS TSS - NOT an
+authorised Tally partner. Wording stays "we provide / we activate
+/ we renew."
+PRICING: source lists standard TSS rates (Silver ₹4,500 / Gold
+₹13,500 / Auditor ₹6,750 per year + GST; 2-yr options too). These
+are fairly standard Tally MRP. Kept off the page to avoid stale
+pricing on a static site - but client CAN add them if they want,
+since they're standard. Confirm before publishing figures.
+
+
+==========================================================
+END OF TALLY SOFTWARE SERVICES (TSS) PAGE
+==========================================================

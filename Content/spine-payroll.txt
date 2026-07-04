@@ -1,0 +1,115 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: SPINE PAYROLL  (Core Solution - HOTLIST)
+Final content - section-wise
+==========================================================
+
+POSITIONING NOTE: Spine = AUTHORISED partner - use as trust
+signal. HOTLIST / front-page-highlighted product - keep copy
+strong and consistent with the Spine HR Suite page.
+SCOPE NOTE: This page = PAYROLL focus (salary, payslips,
+statutory compliance, loans, reports). The full HR lifecycle
+(recruitment, attendance, performance, exit) lives on the
+"Spine HR Suite" page - cross-link, don't duplicate.
+COMPLIANCE ANGLE: PF, ESIC, PT, TDS, Gratuity, Bonus, LWF woven
+in from compliance research - high-intent search terms for
+Indian payroll buyers.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Spine Payroll - Payroll Software in Mumbai
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Run accurate, on-time payroll every month with statutory compliance built in - Spine Payroll, set up and supported by Kanvtech, an authorised Spine partner.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Spine Payroll is payroll software that takes the month-end pressure off your HR team. It handles salary calculations, payslips, deductions and statutory compliance automatically, with all your employee and payroll data in one place. What used to take days of manual work and double-checking now runs accurately in a fraction of the time.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For any business that runs a monthly payroll and wants it done right - from small teams to large companies across every industry. It's ideal if you're still calculating salaries on spreadsheets, struggling to keep up with PF, ESIC and tax rules, or simply want payroll that's quick, accurate and compliant without the stress.
+
+
+----------------------------------------------------------
+KEY FEATURES
+----------------------------------------------------------
+- High-speed, automated salary computation and disbursement
+- Statutory compliance built in - PF, ESIC, PT, TDS, Gratuity, Bonus and LWF
+- Customisable payslips with clear earnings and deductions
+- Loans and advances setup with repayment tracking
+- Backdated payments, arrears and adjustments handled smoothly
+- Complete employee data bank with up-to-date records
+- Custom report writer and dashboards for payroll insights
+- Role-based access and a secure maker-checker workflow
+- Mobile app (Android & iOS) for employees and admins
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- No more month-end headaches - payroll runs accurately and on time
+- Stay compliant automatically as PF, ESIC, PT and tax rules change
+- Cut manual errors with automation and centralised data
+- Disburse salaries and payslips quickly, every cycle
+- Keep sensitive payroll data secure with encryption and access controls
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What does Spine Payroll do?
+A: It automates your entire payroll - salary calculations, payslips, deductions and statutory compliance - so your monthly payroll runs accurately with minimal manual effort.
+
+Q: Does it handle PF, ESIC and tax compliance?
+A: Yes. Spine Payroll takes care of statutory compliance including PF, ESIC, PT, TDS, Gratuity, Bonus and LWF, with tax tables that stay up to date as rules change.
+
+Q: Can it manage employee loans and advances?
+A: Yes. You can set up loans and advances with automatic repayment tracking, so deductions are handled correctly each cycle.
+
+Q: Can it handle arrears and backdated payments?
+A: Yes. Spine Payroll processes arrears, adjustments and backdated payments smoothly, without delays or manual rework.
+
+Q: Is there a mobile app?
+A: Yes - employees and admins can access payroll and HR data through the Spine HR mobile app on Android and iOS.
+
+Q: How is this different from Spine HR Suite?
+A: Spine Payroll focuses on salary processing and compliance. Spine HR Suite is the full HRMS - recruitment, attendance, performance and more - with payroll as part of it. (See our Spine HR Suite page.)
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Make payroll the easiest part of your month. See Spine Payroll in action - Book a Free Demo or Send an Enquiry, and Kanvtech will set it up for your business.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: payroll software mumbai
+Secondary: spine payroll, payroll software india, payroll software with pf esic, salary processing software, payroll compliance software
+Meta title idea: Spine Payroll - Payroll Software in Mumbai | Kanvtech
+Meta description idea: Run accurate, on-time payroll with PF, ESIC, PT and TDS compliance built in. Automated salary, payslips, loans and reports. Set up by Kanvtech, authorised Spine partner.
+Internal link: cross-link to "Spine HR Suite", "Biometric Device" and "Spine Asset" pages.
+
+NOTE: Spine = AUTHORISED partner - trust signal.
+NOTE: This + Spine HR Suite are the FRONT-PAGE HIGHLIGHTS - keep
+both strong and consistent.
+NOTE: Compliance terms (PF/ESIC/PT/TDS/Gratuity/Bonus/LWF) are
+accurate for Spine Payroll and high-value for SEO. "15+ countries"
+= Spine's reach. Ignore placeholder counters ("0 K", "0 M") from
+scrape. No pricing on source - enquiry-based.
+
+
+==========================================================
+END OF SPINE PAYROLL PAGE
+==========================================================

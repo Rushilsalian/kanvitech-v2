@@ -1,0 +1,104 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: TALLY ON CLOUD
+Final content - section-wise
+==========================================================
+
+SCOPE NOTE: This page = hosting TallyPrime on the cloud for
+secure remote, multi-user access. General business cloud hosting
+lives on the separate "Cloud Server" page - cross-link, don't
+duplicate.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Tally on Cloud - Access Your Tally Anytime, Anywhere
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Run your TallyPrime from any device, any location, with secure 24x7 cloud access - set up and managed by Kanvtech.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Tally on Cloud lets you use your existing TallyPrime from anywhere instead of being tied to one office computer. Your Tally runs on a secure cloud server, and you log in to it from your laptop, home system or browser whenever you need. Your team can work on the same data together, in real time, without anyone being in the same room.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For businesses that want their accounts accessible beyond the office - owners who travel, teams spread across locations or warehouses, accountants who work remotely, or growing companies adding more users and channels. If you've ever needed your Tally data while away from your desk, this solves it. (You'll need an existing TallyPrime licence, which we can help arrange.)
+
+
+----------------------------------------------------------
+KEY FEATURES
+----------------------------------------------------------
+- Secure 24x7 access to your Tally from any location or device
+- Multiple users working on the same data in real time
+- Dual-factor authentication and secure PIN login for protection
+- Automatic, encrypted cloud backups with easy data recovery
+- Self-service portal to manage users, systems and backups
+- Works across Windows, Linux and macOS (via browser)
+- Flexible plans by users and subscription period - no data limits
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Stay in control of your accounts wherever you are
+- Let your whole team collaborate without sharing one machine
+- Keep your data safe with strong security and automatic backups
+- Skip the cost and hassle of maintaining your own Tally server
+- Scale up users and resources as your business grows
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: Do I need to buy Tally again to use it on the cloud?
+A: No. Tally on Cloud uses your existing TallyPrime licence - we host it on the cloud so you can access it remotely. If you don't have a licence yet, we can help you get one.
+
+Q: Is my data safe on the cloud?
+A: Yes. Access is protected with dual-factor authentication and a secure PIN, and your data is backed up automatically with encryption, so recovery is simple if ever needed.
+
+Q: Can more than one person use it at the same time?
+A: Yes. Multiple users can work on the same Tally data together in real time, based on your plan.
+
+Q: What devices can I access it from?
+A: You can use it on Windows, Linux and macOS - through a virtual client or directly via a web browser.
+
+Q: How are the plans priced?
+A: Plans are flexible, charged per user with monthly and longer subscription options. We'll suggest the right plan for your team size and share the pricing on enquiry.
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Want your Tally available wherever you are? Book a Free Demo or Send an Enquiry, and Kanvtech will set up the right cloud plan for your team.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: tally on cloud / tally cloud access mumbai
+Secondary: tallyprime cloud access, access tally remotely, tally cloud hosting india, tally multi user cloud
+Meta title idea: Tally on Cloud - Access Your Tally Anytime, Anywhere | Kanvtech
+Meta description idea: Run TallyPrime securely from any device, any location, 24x7. Multi-user, auto-backups, flexible plans. Tally on Cloud set up and managed by Kanvtech. Enquire now.
+Internal link: cross-link to "Cloud Server", "Tally Prime" and "Tally Services" pages.
+
+NOTE (positioning): Kanvtech PROVIDES Tally on Cloud as a service -
+NOT an authorised Tally partner. Keep wording "we host / we set up
+/ we manage."
+PRICING: source lists "starts ~₹600/user/month + GST" (Tally's own
+rate). Kept exact figure OFF the page so Kanvtech sets its own
+price. If client wants a hook, can add "plans starting affordable"
+or their own "starts at ₹X/user/month" - confirm their rate first.
+
+
+==========================================================
+END OF TALLY ON CLOUD PAGE
+==========================================================

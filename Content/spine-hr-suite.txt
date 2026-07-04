@@ -1,0 +1,120 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: SPINE HR SUITE  (Core Solution - HOTLIST)
+Final content - section-wise
+==========================================================
+
+POSITIONING NOTE: Spine = AUTHORISED partner - use as trust
+signal. This is a HOTLIST / front-page-highlighted product, so
+keep the copy strong and confident.
+COMPLIANCE ANGLE: statutory terms (PF, ESIC, PT, TDS, Form 16)
+woven in from compliance research - they're high-intent search
+terms for Indian HR/payroll buyers.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Spine HR Suite - HR & Payroll Software (HRMS) in Mumbai
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+One platform to manage your people from hire to retire - recruitment, attendance, payroll and compliance - set up by Kanvtech, an authorised Spine partner.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Spine HR Suite is a complete HRMS that brings your entire HR and payroll work into one place. From hiring someone to managing their attendance, salary, leaves and performance, right through to their exit, it handles the full employee journey. It replaces scattered spreadsheets and manual paperwork with one connected system your HR team and employees can both use.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+Built to scale with you - whether you're a small startup or a large enterprise, across industries like manufacturing, IT, healthcare, retail, banking, education and more. It's for any business that's growing its team and finding HR harder to manage by hand: processing payroll, tracking attendance, handling leaves and expenses, running appraisals, and staying compliant.
+
+
+----------------------------------------------------------
+KEY MODULES & FEATURES
+----------------------------------------------------------
+The suite is modular - pick what you need and add more as you grow:
+
+Hire & Onboard
+- Recruitment with interview and hiring automation
+- Digital onboarding for a smooth first-day experience
+
+Core HR & Payroll
+- Centralised HRIS and payroll with accurate, on-time processing
+- Statutory compliance handled - PF, ESIC, PT and TDS - with Form 16 and auto-updating tax tables
+- Leave management with a clear team leave planner
+- Time & attendance, integrated with payroll via biometric or web login
+
+Everyday HR
+- Employee Self-Service (ESS) with personalised dashboards
+- Expenses and reimbursements, applied from anywhere
+- Timesheets and project tracking
+- Performance Management (PMS) with data-driven reviews
+- HR Help Desk and Visitor Management
+- Mobile HR app for Android and iOS - attendance, leaves and more on the go
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Manage the whole employee lifecycle on one platform - hire to retire
+- Run payroll accurately and stay compliant without the manual guesswork
+- Free your HR team from paperwork and repetitive tasks
+- Empower employees with self-service and a mobile app
+- Scale easily - add modules, teams and locations as you grow
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What is Spine HR Suite?
+A: It's an all-in-one HRMS and payroll software that manages your complete HR process - recruitment, onboarding, attendance, payroll, leaves, performance and exit - on a single platform.
+
+Q: Does it handle payroll and statutory compliance?
+A: Yes. It processes payroll accurately and takes care of statutory compliance like PF, ESIC, PT and TDS, including Form 16, with tax tables that update automatically.
+
+Q: Can it connect with biometric attendance?
+A: Yes. Time & attendance integrates with biometric or web login and feeds directly into payroll, so attendance and salary stay in sync. (See our Biometric Device page.)
+
+Q: Is there a mobile app?
+A: Yes - the Spine HR app works on Android and iOS, letting employees manage attendance, leaves and other HR tasks from their phone.
+
+Q: Can we start with a few modules and add more later?
+A: Absolutely. The suite is modular, so you can begin with what you need and expand as your business grows.
+
+Q: Will it suit our industry?
+A: Spine HR Suite is used across many industries and is highly configurable, so it adapts to how your business works.
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Ready to simplify your HR and payroll? See Spine HR Suite in action. Book a Free Demo or Send an Enquiry, and Kanvtech will set it up around your needs.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: hr software mumbai / hrms software / hr and payroll software
+Secondary: spine hr suite, payroll software mumbai, hr software for small business india, hire to retire hrms, hr software with biometric
+Meta title idea: Spine HR Suite - HR & Payroll Software (HRMS) in Mumbai | Kanvtech
+Meta description idea: Manage hire-to-retire HR and payroll on one platform - recruitment, attendance, payroll, PF/ESIC/PT/TDS compliance and a mobile app. Set up by Kanvtech, authorised Spine partner.
+Internal link: cross-link to "Spine Payroll", "Biometric Device", "Spine Asset" pages.
+
+NOTE: Spine = AUTHORISED partner - trust signal.
+NOTE: This + Spine Payroll are the FRONT-PAGE HIGHLIGHTS - keep
+both pages strong and consistent in tone.
+NOTE: "15+ countries" is Spine's reach (can mention as Spine's, not
+Kanvtech's). Ignore placeholder counters ("0 K", "0 M") from scrape.
+No pricing on source - enquiry-based.
+
+
+==========================================================
+END OF SPINE HR SUITE PAGE
+==========================================================

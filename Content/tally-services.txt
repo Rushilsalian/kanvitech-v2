@@ -1,0 +1,110 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: TALLY SERVICES
+Final content - section-wise
+==========================================================
+
+SCOPE NOTE: This page = Kanvtech's hands-on Tally support
+offering (implementation, support, AMC, training, sync, multi-
+branch). It is DIFFERENT from "Tally Software Services (TSS)"
+which is Tally's own subscription product - keep them separate
+and cross-link.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Tally Services in Mumbai - Setup, Support & AMC
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Everything you need to keep Tally running smoothly - from installation to ongoing support - handled by Kanvtech's Tally experts.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+Tally is the accounting backbone for lakhs of businesses, but getting it set up right and keeping it that way takes know-how. Our Tally Services cover the whole journey - installing and configuring it for your business, fixing issues when they come up, training your team, and supporting you long after go-live. Whether you need a one-time setup or a year-round support plan, we've got it covered.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+For any business using Tally - whether you're installing it for the first time, struggling with a recurring problem, running it across multiple branches, or just want a reliable team on call when something breaks. From a single-user setup to a multi-branch operation, we tailor the support to your size and needs.
+
+
+----------------------------------------------------------
+TALLY SERVICES WE PROVIDE
+----------------------------------------------------------
+- Tally Implementation - set up and configured around your business requirements
+- Tally Support (Onsite & Remote) - installation, data migration and quick problem-solving
+- Tally AMC - round-the-clock annual support for businesses of any size
+- Tally Data Synchronization - keep data in sync across multiple branches or locations
+- Multi-Branch Management - real-time access and control across office locations
+- TallyPrime Training - corporate training to get your team confident and productive
+
+Support plans to suit you:
+- Basic Plan - for single-user setups needing quick phone help and occasional on-site visits
+- Overtime Policy - for multi-user environments wanting fuller coverage
+- Exclusive Plan - email, phone and on-site support with unlimited access to the Tally Support Centre
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Get Tally set up correctly the first time, with no guesswork
+- A team on call when something goes wrong - onsite or remote
+- Keep multi-branch data accurate and connected
+- Train your staff so they use Tally to its full potential
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: What does Tally implementation include?
+A: We install and configure Tally to match how your business works - setting it up correctly so you're ready to use it from day one.
+
+Q: Do you offer onsite support, or only remote?
+A: Both. Depending on your plan and the issue, we help remotely for quick fixes and visit onsite when needed.
+
+Q: What is a Tally AMC?
+A: An Annual Maintenance Contract gives you ongoing Tally support for the year - covering troubleshooting, assistance and upkeep so you're never stuck.
+
+Q: Can you help run Tally across multiple branches?
+A: Yes. We set up data synchronization and multi-branch management so your locations stay connected with real-time access.
+
+Q: Do you train our team on Tally?
+A: Yes. We provide TallyPrime training so your staff can work confidently and make the most of the software.
+
+Q: How is this different from Tally Software Services (TSS)?
+A: TSS is Tally's own subscription that keeps your licence updated. Tally Services is our hands-on support - setup, troubleshooting, AMC and training. (See our Tally Software Services page.)
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Need help getting Tally set up or kept running? Talk to our team. Book a Free Demo or Send an Enquiry, and Kanvtech will sort it out.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: tally services mumbai / tally support mumbai
+Secondary: tally implementation services, tally amc, tally prime training, tally onsite support india, multi branch tally
+Meta title idea: Tally Services in Mumbai - Setup, Support & AMC | Kanvtech
+Meta description idea: Tally implementation, onsite & remote support, AMC, training and multi-branch setup - handled by Kanvtech's Tally experts in Mumbai. Enquire now.
+Internal link: cross-link to "Tally Software Services", "Tally Prime", "Tally Customization Solution" and "Tally on Cloud" pages.
+
+NOTE (positioning): Kanvtech PROVIDES Tally services/support - NOT
+an authorised Tally partner. Wording stays "we provide / we set up
+/ we support."
+NOTE (structure): Old site had each of these 9 as separate sub-
+pages. Recommend keeping them as sections on this ONE page (cleaner
+for a ~20-page site) rather than 9 thin pages. Confirm with client.
+
+
+==========================================================
+END OF TALLY SERVICES PAGE
+==========================================================

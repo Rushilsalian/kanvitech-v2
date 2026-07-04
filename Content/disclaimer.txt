@@ -1,0 +1,82 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: DISCLAIMER
+Final content - section-wise
+==========================================================
+
+
+----------------------------------------------------------
+PAGE TITLE
+----------------------------------------------------------
+Disclaimer
+
+
+----------------------------------------------------------
+INTRO
+----------------------------------------------------------
+The information on this website is published by Kanvtech Solutions Private Limited for general information about our products, services and solutions. By using this site, you accept the terms set out below. If you do not agree with any part of this disclaimer, we'd ask you not to continue using the website.
+
+
+----------------------------------------------------------
+SECTION 1 - GENERAL INFORMATION
+----------------------------------------------------------
+Everything we share here is meant to give you a clear idea of what Kanvtech does and how we can help your business. We try to keep the details correct and up to date, but we don't promise that every piece of information is complete or free of error at all times. Software features, service offerings and pricing can change, and the content on this site may not always reflect the latest updates from us or from the software vendors we work with.
+
+Any decision you take based on what you read here is your own. Before you commit to a product or service, we recommend you speak to our team directly so we can advise you on what actually fits your requirement.
+
+
+----------------------------------------------------------
+SECTION 2 - PRODUCTS, BRANDS & TRADEMARKS
+----------------------------------------------------------
+Kanvtech is an authorised partner of Spine Technologies and provides, implements and supports Spine products such as Spine Payroll, Spine HR Suite and Spine Asset.
+
+We also offer services, support, customization and cloud hosting around Tally software. Please note that Kanvtech provides Tally-related services only - we are not the manufacturer of Tally and any reference to Tally on this site is in connection with the services we deliver.
+
+"Tally" and "TallyPrime" are trademarks of Tally Solutions Private Limited. "Spine" and related product names are trademarks of Spine Technologies. All other product names, logos and brands mentioned on this website belong to their respective owners. Using these names here is only for identification and description, and does not imply any endorsement unless we have clearly stated a partnership.
+
+
+----------------------------------------------------------
+SECTION 3 - NO PROFESSIONAL ADVICE
+----------------------------------------------------------
+The content on this website is for information only. It is not legal, financial, accounting, tax or compliance advice, and it shouldn't be treated as a substitute for advice from a qualified professional. Areas like payroll, GST, statutory deductions and compliance depend heavily on your specific situation and on rules that change from time to time. Always confirm with the right professional before acting on anything you read here.
+
+
+----------------------------------------------------------
+SECTION 4 - EXTERNAL LINKS
+----------------------------------------------------------
+Some pages may link to other websites that we don't own or control - for example, vendor or product pages. We share those links to help you, not because we take responsibility for them. We can't vouch for the accuracy, content or safety of any external site, and visiting them is at your own discretion. A link from our site does not mean we endorse everything on the linked page.
+
+
+----------------------------------------------------------
+SECTION 5 - ACCURACY & AVAILABILITY
+----------------------------------------------------------
+We make a genuine effort to keep this website running smoothly and to keep the information current. Even so, we can't guarantee the site will always be available, error-free or free from technical issues. Kanvtech will not be held responsible for any problem that comes from the site being temporarily unavailable for reasons outside our control.
+
+
+----------------------------------------------------------
+SECTION 6 - LIMITATION OF LIABILITY
+----------------------------------------------------------
+Kanvtech Solutions Private Limited will not be liable for any loss or damage - direct or indirect - that may result from using this website or relying on its content. This includes any loss of data, business or profit. You use the information on this site on the understanding that you accept this condition.
+
+
+----------------------------------------------------------
+SECTION 7 - CHANGES TO THIS DISCLAIMER
+----------------------------------------------------------
+We may update this disclaimer from time to time as our services or the law change. The latest version will always be the one published on this page, so it's worth checking back occasionally. Continuing to use the website after a change means you accept the updated terms.
+
+
+----------------------------------------------------------
+SECTION 8 - CONTACT US
+----------------------------------------------------------
+If you have any questions about this disclaimer or anything on our website, get in touch:
+
+Kanvtech Solutions Private Limited
+B-810, 8th Floor, Northern Supremus, Bharucha Road,
+Off S.V. Road, Dahisar (East), Mumbai - 400068
+Email: connect@kanvtech.com
+Phone: +91 7045998877
+
+
+==========================================================
+END OF DISCLAIMER PAGE
+==========================================================

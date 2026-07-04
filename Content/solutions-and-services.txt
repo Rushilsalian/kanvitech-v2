@@ -1,0 +1,157 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: SOLUTIONS & SERVICES  (Overview / Listing Hub)
+Final content - section-wise
+==========================================================
+
+PURPOSE: The hub page. Positions Kanvtech as a complete solutions
+company and routes visitors into every individual page. Big SEO
+value (internal linking) + a key navigation page. Client prefers
+the word "Solutions" - leaned into that.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+Our Solutions & Services
+
+
+----------------------------------------------------------
+INTRO  (hero block)
+----------------------------------------------------------
+Heading: One Partner for Everything Your Business Runs On
+Text: As your business grows, so does everything you have to manage - payroll, HR, accounting, data, and the systems that hold it all together. Kanvtech brings these under one roof. From Spine HR and Payroll to Tally, cloud and custom software, we provide the complete set of solutions a growing company needs, backed by hands-on support. One team, one point of contact, for all of it.
+
+
+----------------------------------------------------------
+SECTION 1 - SOFTWARE
+----------------------------------------------------------
+Intro line: Reliable, ready-to-use software for your core business operations.
+
+• Spine Payroll   Popular
+  Accurate, on-time payroll with PF, ESIC, PT and TDS compliance built in.
+  → Learn More
+
+• Spine HR Suite   Popular
+  A complete HRMS that manages your people from hire to retire - on one platform.
+  → Learn More
+
+• Spine Asset
+  Track assets, automate depreciation and stay audit-ready, all in one place.
+  → Learn More
+
+• Tally Prime
+  All-in-one business software for accounting, invoicing, inventory and GST.
+  → Learn More
+
+• Tally Prime Server
+  Fast, secure, multi-user Tally for growing and high-volume businesses.
+  → Learn More
+
+
+----------------------------------------------------------
+SECTION 2 - SERVICES
+----------------------------------------------------------
+Intro line: Expert Tally services to keep your systems running smoothly.
+
+• Tally Software Services (TSS)
+  Unlock connected GST, banking, backups and remote access in TallyPrime.
+  → Learn More
+
+• Tally Services
+  Implementation, onsite & remote support, AMC and training - end to end.
+  → Learn More
+
+• Tally on Cloud
+  Access your Tally securely from any device, anywhere, anytime.
+  → Learn More
+
+
+----------------------------------------------------------
+SECTION 3 - SOLUTIONS
+----------------------------------------------------------
+Intro line: Tailored solutions built around the way your business works.
+
+• App Development   Popular
+  Websites, web apps and mobile apps - designed, built and maintained end to end.
+  → Learn More
+
+• Custom Software Solutions   Popular
+  Software made for your exact process - ERP, CRM, automation and integrations.
+  → Learn More
+
+• Cloud Server   Popular
+  Secure, scalable, fully managed cloud hosting for your business.
+  → Learn More
+
+• Tally Customization Solution
+  Tailor Tally with custom reports, integrations and fields - without touching the core.
+  → Learn More
+
+• Tally Add-On (TDL)
+  Add extra features to Tally - security, automation, invoicing and more.
+  → Learn More
+
+
+----------------------------------------------------------
+SECTION 4 - ALSO FROM KANVTECH  (new offerings)
+----------------------------------------------------------
+Intro line: Growing capabilities to support your business further.
+
+• Business Analytics
+  Turn your business data into clear, actionable insights.
+  → Learn More
+
+• Biometric Device
+  Reliable biometric attendance that connects straight to your HR and payroll.
+  → Learn More
+
+[NOTE: full pages for these two are being built last, per client
+priority. Until live, link to enquiry or show as "Coming soon".]
+
+
+----------------------------------------------------------
+SECTION 5 - WHY KANVTECH  (value strip)
+----------------------------------------------------------
+Heading: Why Businesses Choose Kanvtech
+
+• One partner for all of it - payroll, HR, Tally, cloud and custom software, under one roof.
+• Authorised Spine partner - trusted Spine HR, Payroll and Asset solutions, properly implemented.
+• Deep Tally expertise - sales, setup, support, customization and cloud, all in-house.
+• Built around you - custom software and solutions shaped to your exact needs.
+• Real support - a responsive team in Mumbai that stays with you after go-live.
+
+[USP wording to be finalised together with client.]
+
+
+----------------------------------------------------------
+CTA  (above footer)
+----------------------------------------------------------
+Heading: Not sure which solution fits your business?
+Text: Tell us what you're trying to solve, and we'll point you to the right fit.
+Button: Book a Free Demo / Send an Enquiry
+
+
+----------------------------------------------------------
+DEV / SEO NOTES  (not page copy)
+----------------------------------------------------------
+- This page should link to EVERY solution sub-page (strong internal
+  linking = good SEO). Each "Learn More" → its page.
+- Layout suggestion: 3 clean card groups (Software / Services /
+  Solutions), each card = icon + name + one-liner + Learn More.
+  Mark " Popular" with a small badge. Keep it clean, not cluttered
+  (matches client's "neat & elegant" ask).
+- Highlight the 5 core (Spine Payroll, Spine HR, App Dev, Custom
+  Software, Cloud Server) visually - they're the front-page focus too.
+- Primary keyword: it solutions company mumbai / business software solutions mumbai
+- Secondary: hr payroll tally cloud software mumbai, software solutions company
+- Meta title idea: Our Solutions & Services | Kanvtech Solutions, Mumbai
+- Meta description idea: Spine HR & Payroll, Tally, cloud servers and custom software - Kanvtech is your one partner for complete business solutions in Mumbai. Explore our solutions.
+- Grouping of the new items (Cloud Server placed under Solutions;
+  Business Analytics & Biometric in a separate strip) - confirm
+  final menu placement with client.
+
+
+==========================================================
+END OF SOLUTIONS & SERVICES PAGE
+==========================================================

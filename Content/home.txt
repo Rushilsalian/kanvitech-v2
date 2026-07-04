@@ -1,0 +1,294 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: HOME
+Final content - section-wise
+==========================================================
+
+BUILT FROM: the full project context - old homepage scrape, every
+sub-page we wrote, About, the Solutions hub, and the meeting notes.
+
+KEY CLIENT INSTRUCTIONS HONOURED:
+- HIGHLIGHT SPINE (Payroll + HR) on the front page  ← Ajay's ask
+- Position as a complete SOLUTIONS company
+- Clean, elegant, minimal - visitor "gets it" on landing, no hunting
+- Core 5 featured: Spine Payroll, Spine HR, App Dev, Custom Software, Cloud Server
+- Graphics + visual animation (guidance noted per section)
+- Original, non-AI copy
+
+ORDER OF SECTIONS (top → bottom):
+Hero → Trust bar → Positioning → Spine Spotlight → Core Solutions →
+All Offerings → Why Kanvtech → Stats → How We Work → Industries →
+Testimonials → Blog teaser → Final CTA
+
+
+==========================================================
+SECTION 1 - HERO
+==========================================================
+Eyebrow (small text above heading): Complete Business Solutions
+
+H1: Run Your Business Smarter, All From One Place
+Subtext: HR, payroll, accounting, cloud and custom software - Kanvtech brings the systems your growing business needs under one roof, set up and supported by a team that genuinely knows them.
+
+Primary button: Book a Free Demo
+Secondary button: Send an Enquiry
+Tertiary: Chat on WhatsApp  (https://wa.me/917045998877?text=Hello%20Kanvtech)
+
+Spine callout (small badge/line in hero):  Featuring Spine HR & Payroll - authorised Spine partner
+
+[ANIMATION: subtle fade-up on heading + buttons; soft floating/parallax
+shapes in the background (matches their existing "shape" graphics).
+Keep it clean - one clear message, not 5 rotating slides like the old site.]
+
+
+==========================================================
+SECTION 2 - TRUST BAR  (thin strip under hero)
+==========================================================
+Four quick points, icon + text, in a row:
+• Authorised Spine Partner
+• 18+ Years of Combined Experience
+• One Partner for All Your Systems
+• Hands-On Support in Mumbai
+
+[CONFIRM the "18+ years" figure with client.]
+[ANIMATION: count-up / fade-in as it scrolls into view.]
+
+
+==========================================================
+SECTION 3 - POSITIONING  (who we are, in one breath)
+==========================================================
+Eyebrow: Why Kanvtech
+Heading: Everything Your Growing Business Runs On - One Partner
+
+Text: As your business grows, so does everything you have to manage - staff, salaries, attendance, accounts and the systems behind them. Most companies juggle a different vendor for each. We do it differently. From Spine HR and Payroll to Tally, cloud servers and custom software, Kanvtech is the single partner behind the systems that keep your business moving.
+
+Link: Explore Our Solutions →
+
+[ANIMATION: text fades up; optional simple graphic showing "one hub →
+many solutions".]
+
+
+==========================================================
+SECTION 4 - SPINE SPOTLIGHT   (front-page Spine highlight)
+==========================================================
+[This is the dedicated Spine highlight Ajay asked for - give it a
+distinct, premium-looking band.]
+
+Eyebrow: Authorised Spine Partner
+Heading: Spine HR & Payroll - HR Made Simple
+
+Text: Manage your people from hire to retire and run accurate, compliant payroll every month - without the spreadsheets and the month-end stress. As an authorised Spine partner, Kanvtech implements and supports Spine the right way.
+
+Two feature cards side by side:
+
+  Card A - Spine Payroll   Popular
+  Accurate, on-time payroll with PF, ESIC, PT and TDS compliance built in. Automated salary, payslips, loans and reports.
+  → Learn More
+
+  Card B - Spine HR Suite   Popular
+  A complete HRMS - recruitment, attendance, payroll, performance and more, on one platform, with a mobile app.
+  → Learn More
+
+Button: Book a Free Spine Demo
+
+[ANIMATION: cards slide/fade in; subtle hover lift. Use Spine accent
+within the brand palette. This band should feel like the visual
+centrepiece of the page.]
+
+
+==========================================================
+SECTION 5 - CORE SOLUTIONS  (the 5 core, featured)
+==========================================================
+Eyebrow: What We Offer
+Heading: Solutions Built Around Your Business
+
+Intro line: A focused set of solutions for the things that matter most.
+
+Cards (icon + name + one-liner + Learn More):
+
+1. Spine Payroll  
+   On-time, compliant payroll without the headaches.
+
+2. Spine HR Suite  
+   Complete HR management, hire to retire.
+
+3. App Development  
+   Websites, web apps and mobile apps, built end to end.
+
+4. Custom Software Solutions  
+   Software made for your exact process.
+
+5. Cloud Server  
+   Secure, scalable, fully managed cloud hosting.
+
+Button: View All Solutions & Services →
+
+[ANIMATION: staggered fade-up of cards on scroll; clean grid, generous
+whitespace - keep it elegant, not crowded.]
+
+
+==========================================================
+SECTION 6 - ALL OFFERINGS  (quick overview → routes to hub)
+==========================================================
+Heading: A Complete Toolkit for Your Business
+
+Three columns (matches their menu structure):
+
+SOFTWARE
+- Spine Payroll
+- Spine HR Suite
+- Spine Asset
+- Tally Prime
+- Tally Prime Server
+
+SERVICES
+- Tally Software Services (TSS)
+- Tally Services
+- Tally on Cloud
+
+SOLUTIONS
+- Tally Customization
+- Tally Add-On (TDL)
+- App Development
+- Custom Software Solutions
+- Cloud Server
+
+Link under the columns: See everything we do →
+
+[ANIMATION: simple column reveal. Each item links to its page.]
+
+
+==========================================================
+SECTION 7 - WHY KANVTECH  (value strip)
+==========================================================
+Heading: Why Businesses Choose Kanvtech
+
+• One partner for all of it - no juggling vendors for HR, payroll, Tally, cloud and software.
+• Authorised Spine partner - Spine HR, Payroll and Asset, properly implemented.
+• Deep Tally expertise - sales, setup, support, customization and cloud, all in-house.
+• Built around you - custom software shaped to how you actually work.
+• Support that stays - a responsive Mumbai team that's with you after go-live.
+
+[USP to be finalised with client - sharpen the single strongest line.]
+[ANIMATION: icons fade/scale in on scroll.]
+
+
+==========================================================
+SECTION 8 - STATS STRIP
+==========================================================
+[Animated count-up counters - USE REAL NUMBERS ONLY.]
+
+• 18+    Years of combined experience
+• [___]  Businesses served
+• [___]  Projects delivered
+• [___]  Solutions offered
+
+[CONFIRM real figures with client. Drop any counter without a real
+number - do NOT show "0" or placeholders.]
+
+
+==========================================================
+SECTION 9 - HOW WE WORK  (simple 3-step)
+==========================================================
+Heading: Getting Started Is Simple
+
+Step 1 - Tell Us What You Need
+Share your requirement or book a free demo. We listen first.
+
+Step 2 - We Recommend & Set Up
+We suggest what genuinely fits, then implement it the right way.
+
+Step 3 - We Support You
+We stay with you after go-live - training, help and updates whenever you need.
+
+Button: Start With a Free Demo
+
+[ANIMATION: connected 3-step timeline that draws in on scroll.]
+
+
+==========================================================
+SECTION 10 - INDUSTRIES WE SERVE
+==========================================================
+Heading: Solutions for Every Industry
+
+Text: From manufacturing and retail to healthcare, finance, education and services - our solutions adapt to any business. Spine Payroll and our other tools fit the way your industry works.
+
+[Optional: a row of industry icons. ANIMATION: gentle fade-in.]
+
+
+==========================================================
+SECTION 11 - TESTIMONIALS
+==========================================================
+Heading: Trusted by Businesses Like Yours
+
+[Client has strong reviews and is collecting more - populate this
+carousel once they share. Until then, keep the section structure ready
+or hide it. Pull from Testimonials page.]
+
+[ANIMATION: simple slider/carousel.]
+
+
+==========================================================
+SECTION 12 - TRUST: PARTNER & CERTIFICATIONS
+==========================================================
+Heading: Certified & Trusted
+
+Text: An authorised Spine partner, backed by industry certifications and the trust of businesses who rely on us.
+
+[ADD Spine partner badge + certificate logos + client logos when the
+client shares them.]
+
+
+==========================================================
+SECTION 13 - BLOG TEASER
+==========================================================
+Heading: Insights & Updates
+Text: Tips and updates on Tally, payroll, HR, GST and growing your business.
+
+[Show latest 3 blog posts - title + date + Read More. Links to Blog.]
+
+
+==========================================================
+SECTION 14 - FINAL CTA  (strong closing band)
+==========================================================
+Heading: Ready to Run Your Business Smarter?
+Text: Whether it's payroll, HR, Tally, cloud or custom software - let's find the right solution for you.
+
+Primary button: Book a Free Demo
+Secondary button: Send an Enquiry
+Tertiary: Chat on WhatsApp
+
+[ANIMATION: bold full-width band in brand colour; buttons with hover.]
+
+
+==========================================================
+DEV / SEO / DESIGN NOTES  (not page copy)
+==========================================================
+DESIGN (per client's "clean & elegant, no clutter" ask):
+- Lots of whitespace, clear hierarchy, one message per section.
+- Replace the old 5 rotating Tally slides with ONE strong hero.
+- Spine Spotlight (Sec 4) is the visual centrepiece - Ajay's request.
+- Match accent colours to the logo (get logo + palette from client).
+- Floating WhatsApp button site-wide.
+- Subtle, tasteful animations (fade-up, count-up, hover lift) - not heavy.
+
+SEO:
+- Primary keyword: it solutions company mumbai / hr payroll software mumbai
+- Secondary: spine payroll mumbai, spine hr software, tally solutions mumbai,
+  cloud server mumbai, custom software development mumbai
+- Meta title idea: Kanvtech Solutions - HR, Payroll, Tally, Cloud & Software in Mumbai
+- Meta description idea: Kanvtech Solutions is your one partner for Spine HR & Payroll,
+  Tally, cloud servers and custom software in Mumbai. Book a free demo today.
+- H1 used once (Sec 1). Add Organization + LocalBusiness schema.
+- Strong internal links from Home to every core + hub page.
+
+ITEMS TO CONFIRM WITH CLIENT:
+1. Logo source + brand colours (blocks the whole design)
+2. Real stats for trust bar + counters (years, clients, projects)
+3. Testimonials + certificate logos + Spine badge + client logos
+4. Final USP wording
+5. Confirm phone/WhatsApp: +91 70459 98877
+
+
+==========================================================
+END OF HOME PAGE
+==========================================================

@@ -1,0 +1,144 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: CONTACT US  (Enquiry + Contact merged)
+Final content - section-wise
+==========================================================
+
+NOTE: Enquiry and Contact merged into ONE page (as agreed). This
+page has copy + a form + contact details + Google Map. Sections
+below cover all of it, including the map embed and form spec for
+the developer.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE
+----------------------------------------------------------
+Contact Us
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+Have a question or ready to get started? Reach out and our team will get back to you quickly.
+
+
+----------------------------------------------------------
+SECTION 1 - GET IN TOUCH  (intro block)
+----------------------------------------------------------
+Heading: Feel Free to Ask
+Text: Whether you want a demo, a quote, or just have a question about the right solution for your business, we're happy to help. Fill in the form and we'll get back to you, or reach us directly using the details below.
+
+
+----------------------------------------------------------
+SECTION 2 - ENQUIRY FORM
+----------------------------------------------------------
+Form heading: Send Us a Message
+
+Fields:
+- Full Name        (text, required)
+- Company Name      (text, optional)
+- Email             (email, required)
+- Phone             (tel, required)
+- Enquiry For       (dropdown, required) - options:
+      • Spine Payroll
+      • Spine HR Suite
+      • Spine Asset
+      • Tally Prime / Tally Prime Server
+      • Tally Software Services (TSS)
+      • Tally Services / Support
+      • Tally on Cloud
+      • Tally Customization / Add-On
+      • App Development
+      • Custom Software Solutions
+      • Cloud Server
+      • Business Analytics
+      • Biometric Device
+      • Other
+- Message           (textarea, required) - placeholder: "Write your message"
+
+Button: Send Message
+
+Privacy line under form (small text):
+"By submitting, you agree to our Privacy Policy. Your details are safe with us and used only to respond to your enquiry."
+
+Success message (after submit):
+"Thank you for reaching out. Your enquiry has been received - our team will get back to you shortly."
+
+
+----------------------------------------------------------
+SECTION 3 - CONTACT DETAILS
+----------------------------------------------------------
+Heading: Reach Us Directly
+
+Company: Kanvtech Solutions Private Limited
+
+Address:
+B-810, 8th Floor, Northern Supremus,
+Bharucha Road, Off S.V. Road,
+Dahisar (East), Mumbai - 400068
+
+Phone: +91 70459 98877            (make clickable: tel:+917045998877)
+Email: connect@kanvtech.com        (make clickable: mailto:connect@kanvtech.com)
+Website: www.kanvtech.com
+WhatsApp: Chat on WhatsApp          (link: https://wa.me/917045998877?text=Hello%20Kanvtech)
+
+Business Hours: Monday – Saturday, 10:00 AM – 7:00 PM
+[CONFIRM hours with client before publishing]
+
+
+----------------------------------------------------------
+SECTION 4 - GOOGLE MAP
+----------------------------------------------------------
+Embed the company's live Google Map (Kanvtech Solutions Pvt Ltd, Dahisar East).
+
+Map embed code (from existing site - verify it still loads, then use):
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.48961819273913!2d72.85561382484734!3d19.20245619236971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b735507ef5f9%3A0xe6e2e9495c3c140c!2sKanvtech%20Solutions%20Private%20Limited!5e0!3m2!1sen!2sin!4v1675776891712!5m2!1sen!2sin"
+  width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+Add a "Get Directions" link below the map:
+https://www.google.com/maps/dir/?api=1&destination=Kanvtech+Solutions+Private+Limited+Dahisar+East+Mumbai
+
+
+----------------------------------------------------------
+SECTION 5 - SOCIAL LINKS
+----------------------------------------------------------
+Follow Us: Facebook | Twitter (X) | LinkedIn | Instagram | WhatsApp
+[REPLACE placeholders with Kanvtech's REAL profile URLs - old site
+linked to generic login pages. Get actual handles from client.]
+
+
+----------------------------------------------------------
+CTA STRIP  (optional, above footer)
+----------------------------------------------------------
+Heading: Looking for the right solution for your business?
+Button: Send an Enquiry / Book a Free Demo
+
+
+----------------------------------------------------------
+DEV / SEO NOTES  (not page copy)
+----------------------------------------------------------
+- Form submissions go to: connect@kanvtech.com [CONFIRM recipient
+  email with client - they may want a separate sales inbox].
+- Make phone click-to-call and add a floating WhatsApp button
+  site-wide (good for lead capture).
+- Add basic spam protection (captcha / honeypot).
+- Primary keyword: contact kanvtech / kanvtech solutions mumbai
+- Meta title idea: Contact Kanvtech Solutions - Dahisar East, Mumbai
+- Meta description idea: Get in touch with Kanvtech Solutions for Tally, Spine HR & Payroll, cloud and software solutions. Call +91 70459 98877 or send an enquiry.
+- LocalBusiness schema: add name, address, phone, geo, opening hours
+  for local SEO.
+
+ITEMS STILL TO CONFIRM WITH CLIENT:
+1. Business hours (assumed Mon–Sat 10–7)
+2. Form recipient email (assumed connect@kanvtech.com)
+3. Real social media profile links
+4. Whether phone/WhatsApp number stays +91 70459 98877
+
+
+==========================================================
+END OF CONTACT US PAGE
+==========================================================

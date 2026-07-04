@@ -1,0 +1,102 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: TALLY PRIME SERVER
+Final content - section-wise
+==========================================================
+
+SCOPE NOTE: TallyPrime Server is Tally's high-end data-server
+product for heavy multi-user / multi-branch use. It works with a
+TallyPrime Gold licence. Different from "Tally Prime" (the
+software) and "Tally on Cloud" (cloud hosting) - cross-link.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE  (keyword-led)
+----------------------------------------------------------
+TallyPrime Server in Mumbai - Power for Multi-User Businesses
+
+
+----------------------------------------------------------
+INTRO  (1 line under the heading)
+----------------------------------------------------------
+When many people work in Tally at once, TallyPrime Server keeps it fast, secure and reliable - set up and supported by Kanvtech.
+
+
+----------------------------------------------------------
+WHAT IT IS
+----------------------------------------------------------
+TallyPrime Server is a powerful upgrade for businesses where lots of users work on the same Tally data at the same time. It moves your data onto a proper server with client-server architecture, going beyond what the standard Gold licence offers. The result is more users working together without slowdowns, tighter security, and far better control over who accesses what. It works alongside your TallyPrime Gold licence.
+
+
+----------------------------------------------------------
+WHO IT'S FOR  /  USE CASE
+----------------------------------------------------------
+Built for medium and large businesses - and fast-growing ones with 10 or more people working in Tally together. It's ideal if your team constantly hits slowdowns during busy periods, if you consolidate data from multiple branches to a head office, or if an administrator needs to manage data access and monitor user activity centrally.
+
+
+----------------------------------------------------------
+KEY FEATURES
+----------------------------------------------------------
+- High concurrency - many users load companies, save entries, print and back up at once without downtime
+- Secured by design - data location stays hidden; access controlled at the server level
+- Server-level permissions for backup, restore and data operations
+- User session monitoring - track activity and disconnect users when needed
+- High reliability - issues on one client don't affect the server or other users
+- Works together with your existing TallyPrime Gold licence
+
+
+----------------------------------------------------------
+BENEFITS
+----------------------------------------------------------
+- Your team works without interruptions, even at peak load
+- Data stays real-time, consistent and accurate across users
+- Tighter control and security over your business data
+- Smarter monitoring helps you optimise how Tally is used
+- Less downtime means more productive working hours
+
+
+----------------------------------------------------------
+FAQ  (also supports SEO)
+----------------------------------------------------------
+Q: Who actually needs TallyPrime Server?
+A: Businesses with many users working in Tally at the same time - typically 10 or more - or those consolidating data across branches. If you're facing slowdowns with multiple users, this solves it.
+
+Q: Does it replace my TallyPrime licence?
+A: No. TallyPrime Server works alongside your TallyPrime Gold (multi-user) licence - it adds the server power on top.
+
+Q: How is it better than just running Gold on a network?
+A: It uses a proper client-server setup, so many users can work at once without speed drops or downtime, with stronger security and central control.
+
+Q: Can an admin control user access and activity?
+A: Yes. Administrators get server-level permissions, can monitor user sessions, and can disconnect users when needed.
+
+Q: Can we try it before buying?
+A: A trial is available so you can see the difference in your own setup. We'll help you arrange and evaluate it.
+
+
+----------------------------------------------------------
+CTA
+----------------------------------------------------------
+Outgrowing your current Tally setup? Let's get you on TallyPrime Server. Book a Free Demo or Send an Enquiry, and Kanvtech will handle the setup.
+
+
+----------------------------------------------------------
+SEO NOTES  (for development - not page copy)
+----------------------------------------------------------
+Primary keyword: tallyprime server mumbai
+Secondary: tally prime server, tally multi user server, tally data server, tally server license india
+Meta title idea: TallyPrime Server in Mumbai - Power for Multi-User Businesses | Kanvtech
+Meta description idea: TallyPrime Server gives fast, secure, multi-user access for growing businesses. High concurrency, central control, zero downtime. Set up by Kanvtech. Enquire now.
+Internal link: cross-link to "Tally Prime", "Tally on Cloud" and "Tally Services" pages.
+
+NOTE (positioning): Kanvtech PROVIDES & SETS UP TallyPrime Server -
+NOT an authorised Tally partner. Wording stays "we set up / we
+support."
+PRICING: source lists ₹2,70,000 + GST (Tally MRP) - high-value
+item, kept OFF the page so it goes through sales conversation. Also
+do NOT claim Tally's "2.5 million businesses" stat as Kanvtech's.
+
+
+==========================================================
+END OF TALLY PRIME SERVER PAGE
+==========================================================

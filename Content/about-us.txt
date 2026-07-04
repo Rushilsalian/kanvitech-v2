@@ -1,0 +1,152 @@
+﻿==========================================================
+KANVTECH SOLUTIONS PRIVATE LIMITED
+WEBSITE PAGE: ABOUT US
+Final content - section-wise
+==========================================================
+
+NOTE: Brand-story page. Built from the real threads on their old
+site (young & dynamic company, 18+ years of combined experience,
+commitment to excellence) + the complete-solutions positioning
+from the meeting. Tone: confident, human, warm - NOT buzzwordy.
+Numbers and a few claims are flagged to confirm with the client.
+
+
+----------------------------------------------------------
+H1 / PAGE TITLE
+----------------------------------------------------------
+About Kanvtech Solutions
+
+
+----------------------------------------------------------
+INTRO  (hero block)
+----------------------------------------------------------
+Heading: Solutions That Help Your Business Grow
+Text: Kanvtech Solutions is a Mumbai-based technology company helping businesses run smarter. From HR and payroll to accounting, cloud and custom software, we bring together the tools a growing company needs - and the support to make them work.
+
+
+----------------------------------------------------------
+SECTION 1 - WHO WE ARE
+----------------------------------------------------------
+Heading: Who We Are
+
+Kanvtech Solutions Private Limited is a young and dynamic company with a serious depth of experience behind it. Our team brings together over 18 years of combined experience in software and business enterprise solutions - the kind of know-how that only comes from years of solving real problems for real businesses.
+
+We're driven by a simple belief: that good software, set up the right way, should make a business easier to run. That's why we don't just hand over a product and walk away. We understand how you work, recommend what genuinely fits, and stay with you long after go-live.
+
+[CONFIRM with client: founding year, team size, "18 years" figure -
+adjust the story to match the real numbers.]
+
+
+----------------------------------------------------------
+SECTION 2 - WHAT WE DO
+----------------------------------------------------------
+Heading: One Partner for Your Business Systems
+
+As a business grows, the list of things to manage grows with it - staff, salaries, attendance, accounts, data, and the systems that hold everything together. Most companies end up juggling different vendors for each. We do it differently.
+
+Kanvtech is a complete solutions company. We provide:
+- HR & Payroll software (Spine HR Suite, Spine Payroll) to manage your people end to end
+- Tally software, services, customization and cloud access for your accounting and compliance
+- Cloud servers to keep your systems secure and accessible anywhere
+- Custom software and app development built around your exact processes
+- Asset management, business analytics and biometric solutions as you scale
+
+One partner, one point of contact, for the systems your business runs on.
+
+
+----------------------------------------------------------
+SECTION 3 - WHO WE SERVE
+----------------------------------------------------------
+Heading: Built for Growing Businesses
+
+We work with businesses of every size and across every industry - manufacturing, retail, healthcare, services, finance, education and more. Whether you're a small team setting up your first proper systems or an established company streamlining how you operate, our solutions scale to fit. Because Spine Payroll and our other solutions adapt to any industry, there's rarely a business we can't help.
+
+
+----------------------------------------------------------
+SECTION 4 - WHY CHOOSE KANVTECH
+----------------------------------------------------------
+Heading: What Sets Us Apart
+
+• One partner for everything - payroll, HR, Tally, cloud and custom software, all under one roof. No juggling vendors.
+
+• Authorised Spine partner - we deliver Spine HR Suite, Spine Payroll and Spine Asset properly implemented and fully supported.
+
+• Real Tally expertise - sales, setup, support, customization and cloud, handled in-house by people who know it inside out.
+
+• Solutions built around you - when off-the-shelf doesn't fit, we build software that does.
+
+• Support that stays - a responsive team that's there for you well beyond the install.
+
+[USP to be finalised together with client - this section is the
+place to sharpen the single strongest reason to choose Kanvtech.]
+
+
+----------------------------------------------------------
+SECTION 5 - HOW WE WORK  (values)
+----------------------------------------------------------
+Heading: What Drives Us
+
+• Excellence - we stay ahead of the curve and hold our work to a high standard.
+• Honesty - we recommend what's right for you, not just what's easy to sell.
+• Commitment - we're driven to exceed what our customers expect.
+• Partnership - we treat your business like our own, for the long run.
+
+
+----------------------------------------------------------
+SECTION 6 - STATS STRIP  (numbers)
+----------------------------------------------------------
+[Animated counters - confirm REAL figures with client before use.
+Suggested format:]
+
+• 18+   Years of combined experience
+• [___] Happy clients served
+• [___] Projects delivered
+• [___] Solutions offered
+
+[Do NOT publish placeholder/zero numbers. Get actuals from client;
+if some aren't available, drop those counters.]
+
+
+----------------------------------------------------------
+SECTION 7 - TRUST: PARTNERS & CERTIFICATIONS
+----------------------------------------------------------
+Heading: Trusted & Certified
+
+Text: We're proud to be an authorised Spine partner, and our work is backed by industry certifications and the trust of businesses who rely on us every day.
+
+[ADD: Spine partner badge, certificate logos, and client logos once
+the client shares them. Client said certificates exist and are being
+collected - placeholder this section until assets arrive.]
+
+
+----------------------------------------------------------
+SECTION 8 - CTA  (above footer)
+----------------------------------------------------------
+Heading: Let's Build Something That Works for You
+Text: Tell us what your business needs, and we'll help you find the right solution.
+Button: Book a Free Demo / Send an Enquiry
+
+
+----------------------------------------------------------
+DEV / SEO NOTES  (not page copy)
+----------------------------------------------------------
+- Layout: hero → who we are (with image) → what we do (solutions
+  grid) → who we serve → why choose us (icon list) → values →
+  stats counter strip → trust/certs logos → CTA. Keep it clean and
+  elegant per client's ask; lots of whitespace, not text-heavy walls.
+- Primary keyword: about kanvtech solutions / it solutions company mumbai
+- Secondary: hr payroll software company mumbai, tally solutions provider mumbai
+- Meta title idea: About Kanvtech Solutions - IT & Software Solutions Company in Mumbai
+- Meta description idea: Kanvtech Solutions is a Mumbai-based company providing HR, payroll, Tally, cloud and custom software - one trusted partner for your business systems.
+- Add Organization schema (name, logo, address, founding info, social).
+
+ITEMS TO CONFIRM WITH CLIENT:
+1. Founding year + team size + the "18 years" figure
+2. Real stats for the counter strip (clients, projects, etc.)
+3. Certificate logos, Spine partner badge, client logos
+4. Final USP wording (Section 4) - to co-develop
+
+
+==========================================================
+END OF ABOUT US PAGE
+==========================================================
