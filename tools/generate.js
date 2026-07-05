@@ -25,7 +25,6 @@ const SITE = {
 /* Verified premium imagery (Pexels — free to use, hotlink-safe CDN).
    Replace with the client's own brand photography when available. */
 const IMG = {
-  heroTeam:   "https://images.pexels.com/photos/7580644/pexels-photo-7580644.jpeg?auto=compress&cs=tinysrgb&w=1400",
   present:    "https://images.pexels.com/photos/7581110/pexels-photo-7581110.jpeg?auto=compress&cs=tinysrgb&w=1200",
   consult:    "https://images.pexels.com/photos/7580824/pexels-photo-7580824.jpeg?auto=compress&cs=tinysrgb&w=1200",
   businesswoman: "https://images.pexels.com/photos/7580635/pexels-photo-7580635.jpeg?auto=compress&cs=tinysrgb&w=1200",
@@ -33,7 +32,17 @@ const IMG = {
   team:       "https://images.pexels.com/photos/26834970/pexels-photo-26834970.jpeg?auto=compress&cs=tinysrgb&w=1200",
   training:   "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&w=1200",
   couch:      "https://images.pexels.com/photos/7580775/pexels-photo-7580775.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  assetTrack: "https://images.pexels.com/photos/4484047/pexels-photo-4484047.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  serverRack: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  serverBlue: "https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  bankingLaptop: "https://images.pexels.com/photos/8062355/pexels-photo-8062355.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  remoteCloud: "https://images.pexels.com/photos/32341972/pexels-photo-32341972.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  codeCustom: "https://images.pexels.com/photos/6805152/pexels-photo-6805152.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  codeAddOn:  "https://images.pexels.com/photos/35140700/pexels-photo-35140700.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  analytics:  "https://images.pexels.com/photos/7109291/pexels-photo-7109291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  biometric:  "https://images.pexels.com/photos/37538043/pexels-photo-37538043.jpeg?auto=compress&cs=tinysrgb&w=1200",
 };
+const HERO_IMG = "images/hero-primary.png";
 
 const ic = (name, cls) => `<i data-lucide="${name}"${cls ? ` class="${cls}"` : ""}></i>`;
 
@@ -85,7 +94,7 @@ function head(o) {
   <title>${o.title}</title>
   <meta name="description" content="${o.desc}">
   <link rel="canonical" href="${canonical}">
-  <meta name="theme-color" content="#0D1B2A">
+  <meta name="theme-color" content="#FFFFFF">
   <link rel="icon" type="image/png" href="images/logo.png">
 
   <meta property="og:type" content="website">
@@ -104,15 +113,6 @@ ${o.schema ? `  <script type="application/ld+json">${JSON.stringify(o.schema)}</
 <body>
 
   <div class="loader" aria-hidden="true"><img src="images/logo.png" alt=""></div>
-
-  <div class="bg-stage" aria-hidden="true">
-    <div class="bg-grid"></div>
-    <div class="blob blob-blue"></div>
-    <div class="blob blob-cyan"></div>
-    <div class="blob blob-deep"></div>
-    <div class="beam"></div><div class="beam b2"></div><div class="beam b3"></div>
-    <div class="bg-noise"></div>
-  </div>
 `;
 }
 
@@ -384,6 +384,7 @@ const SOLUTIONS = [
     desc: "Track assets, automate depreciation and stay audit-ready with Spine Asset. Barcode tracking, AMC reminders, audit trail. Set up by Kanvtech, authorised Spine partner.",
     h1: "Spine Asset — Fixed Asset Management Software in Mumbai",
     intro: "Track every asset, automate depreciation and stay audit-ready — Spine Asset, implemented and supported by Kanvtech, an authorised Spine partner.",
+    image: { src: IMG.assetTrack, alt: "Warehouse employee using a tablet to track fixed assets and inventory" },
     what: "Spine Asset is fixed asset management software that brings order to how your business tracks and maintains its assets. Instead of scattered spreadsheets and missed renewals, you get one place to record every asset, calculate depreciation automatically, and know exactly what you own, where it is, and what condition it's in. It takes asset management from chaos to clarity.",
     who: "For any business with assets worth tracking — used across industries like manufacturing, infrastructure, textiles, healthcare, automobile and agriculture. It suits companies managing equipment across multiple locations or branches, those needing clean records at audit time, and teams that keep losing track of warranties, AMCs and maintenance schedules.",
     features: [
@@ -461,6 +462,7 @@ const SOLUTIONS = [
     desc: "TallyPrime Server gives fast, secure, multi-user access for growing businesses. High concurrency, central control, zero downtime. Set up by Kanvtech. Enquire now.",
     h1: "TallyPrime Server in Mumbai — Power for Multi-User Businesses",
     intro: "When many people work in Tally at once, TallyPrime Server keeps it fast, secure and reliable — set up and supported by Kanvtech.",
+    image: { src: IMG.serverBlue, alt: "Illuminated server hardware representing TallyPrime Server infrastructure" },
     what: "TallyPrime Server is a powerful upgrade for businesses where lots of users work on the same Tally data at the same time. It moves your data onto a proper server with client-server architecture, going beyond what the standard Gold licence offers. The result is more users working together without slowdowns, tighter security, and far better control over who accesses what. It works alongside your TallyPrime Gold licence.",
     who: "Built for medium and large businesses — and fast-growing ones with 10 or more people working in Tally together. It's ideal if your team constantly hits slowdowns during busy periods, if you consolidate data from multiple branches to a head office, or if an administrator needs to manage data access and monitor user activity centrally.",
     features: [
@@ -497,6 +499,7 @@ const SOLUTIONS = [
     desc: "Activate or renew TSS to unlock connected GST, banking, cloud backup and remote access in TallyPrime. Plans and renewals handled by Kanvtech. Enquire now.",
     h1: "Tally Software Services (TSS) in Mumbai",
     intro: "Unlock the connected side of TallyPrime — GST, banking, backups and remote access — with a TSS subscription from Kanvtech.",
+    image: { src: IMG.bankingLaptop, alt: "Laptop displaying financial charts alongside GST invoices and documents" },
     what: "Tally Software Services, or TSS, is a subscription that adds a layer of connected services on top of your TallyPrime. It's what keeps your software current with the latest features and statutory changes, and unlocks online abilities like GST filing, connected banking, cloud backup and remote access to your reports. In short, it turns Tally from a standalone tool into a connected one.",
     who: "For any business on TallyPrime that wants more than offline accounting — handling GST and e-invoicing inside Tally, making and reconciling payments through connected banking, backing up to the cloud, syncing data across branches, or checking reports from a phone. Every new TallyPrime licence comes with TSS for the first year; after that, it needs renewal to keep these services running.",
     featHeading: "What TSS gives you",
@@ -572,6 +575,7 @@ const SOLUTIONS = [
     desc: "Run TallyPrime securely from any device, any location, 24x7. Multi-user, auto-backups, flexible plans. Tally on Cloud set up and managed by Kanvtech. Enquire now.",
     h1: "Tally on Cloud — Access Your Tally Anytime, Anywhere",
     intro: "Run your TallyPrime from any device, any location, with secure 24x7 cloud access — set up and managed by Kanvtech.",
+    image: { src: IMG.remoteCloud, alt: "Professional working remotely on a laptop, accessing Tally on the cloud" },
     what: "Tally on Cloud lets you use your existing TallyPrime from anywhere instead of being tied to one office computer. Your Tally runs on a secure cloud server, and you log in to it from your laptop, home system or browser whenever you need. Your team can work on the same data together, in real time, without anyone being in the same room.",
     who: "For businesses that want their accounts accessible beyond the office — owners who travel, teams spread across locations or warehouses, accountants who work remotely, or growing companies adding more users and channels. If you've ever needed your Tally data while away from your desk, this solves it. (You'll need an existing TallyPrime licence, which we can help arrange.)",
     features: [
@@ -608,6 +612,7 @@ const SOLUTIONS = [
     desc: "Tailor Tally to your business - custom reports, CRM integration and extra fields, without touching the core. Set up and supported by Kanvtech in Mumbai. Enquire now.",
     h1: "Tally Customization Services in Mumbai",
     intro: "Make Tally work the way your business does — custom reports, integrations and tailored fields, set up by Kanvtech.",
+    image: { src: IMG.codeCustom, alt: "Developer customizing business software code on a workstation" },
     what: "Tally is powerful out of the box, but every business runs a little differently. Tally customization is about shaping it to fit yours — changing how information is captured, displayed and reported, and connecting it with the other tools you use. The best part is that this happens without touching Tally's core, so you keep everything stable while getting exactly what you need.",
     who: "For any business already on Tally that finds the standard setup doesn't cover everything. Typical needs we handle: customised reports the default version doesn't offer, integrating Tally with your CRM or other software, and capturing additional information in your Tally masters or vouchers. If you're exporting data and reworking it elsewhere, customization usually removes that step.",
     features: [
@@ -643,6 +648,7 @@ const SOLUTIONS = [
     desc: "Add extra features to your Tally with custom TDL add-ons - security, automation, invoicing, GST and more. Built, installed and supported by Kanvtech. Enquire now.",
     h1: "Tally Add-Ons & TDL Customization in Mumbai",
     intro: "Extend your Tally with extra features it doesn't offer out of the box — built and installed by Kanvtech to match how your business actually works.",
+    image: { src: IMG.codeAddOn, alt: "Software developer building a custom Tally TDL add-on" },
     what: "A Tally Add-On is a small module that plugs into your existing Tally and adds a feature you need but don't get in the standard setup. These are built using TDL (Tally Definition Language), so they sit neatly inside Tally without disturbing your data or your daily routine. If there's something repetitive you're doing by hand, or a control or report Tally doesn't give you, an add-on usually solves it.",
     who: "For any business already using Tally that finds itself working around the software's limits — manually checking entries, copying data into emails, struggling with approvals, or wishing a report looked different. Instead of changing the way your team works, we adjust Tally to fit it.",
     featHeading: "Key add-ons we provide — and if it isn't listed, we build it",
@@ -758,6 +764,7 @@ const SOLUTIONS = [
     desc: "Secure, scalable, fully managed cloud servers for your websites, apps and business data. Set up and supported by Kanvtech in Mumbai. Book a free demo.",
     h1: "Cloud Server Hosting for Business in Mumbai",
     intro: "Fast, secure and always-on cloud servers for your websites, applications and business data — set up and managed by Kanvtech.",
+    image: { src: IMG.serverRack, alt: "Data center server racks representing secure managed cloud hosting" },
     what: "A cloud server hosts your websites, business applications and databases across a network of connected virtual servers instead of one physical machine. If one server in the network goes down, another picks up instantly — so your business keeps running. You also get the freedom to add or reduce resources whenever you need, without buying or maintaining your own hardware.",
     who: "Whether you're a small business that wants reliable hosting without the cost of in-house servers, or a growing company running accounting software, ERP, CRM or a high-traffic website, a cloud server fits. It's a strong choice for hosting business websites, running software like Tally on Cloud, setting up secure data backups, and giving your team access to company tools from anywhere.",
     features: [
@@ -1021,7 +1028,6 @@ const INDUSTRIES_B = [
 const homeBody = `
     <!-- ============================ HERO ============================ -->
     <section class="hero">
-      <canvas id="particles" aria-hidden="true"></canvas>
       <div class="hero-rings" aria-hidden="true">
         <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
       </div>
@@ -1053,7 +1059,7 @@ const homeBody = `
         <div class="hero-visual" data-tilt-scene>
           <div class="hero-glow" aria-hidden="true"></div>
           <div class="hero-img-wrap">
-            <img src="${IMG.heroTeam}" alt="Indian business and technology consultants discussing enterprise solutions in a modern Mumbai office" fetchpriority="high">
+            <img src="${HERO_IMG}" alt="Kanvtech Solutions — enterprise software, HR, payroll, Tally and cloud solutions" fetchpriority="high">
           </div>
 
           <div class="float-card fc-1">
@@ -1070,8 +1076,6 @@ const homeBody = `
           </div>
         </div>
       </div>
-
-      <div class="scroll-hint" aria-hidden="true"><div class="wheel"></div>Scroll</div>
     </section>
 
     <!-- ========================= TRUST BAR ========================== -->
@@ -1120,6 +1124,7 @@ const homeBody = `
 
           <div class="spotlight-cards">
             <div class="product-card" data-tilt>
+              <div class="pc-media"><img src="${IMG.businesswoman}" alt="Indian HR professional reviewing payroll reports with her team" loading="lazy"></div>
               <div class="pc-top">
                 <div class="pc-icon">${ic("wallet")}</div>
                 <span class="badge-pop">Popular</span>
@@ -1129,6 +1134,7 @@ const homeBody = `
               <a class="link-arrow" href="spine-payroll.html">Learn More ${ic("arrow-right")}</a>
             </div>
             <div class="product-card" data-tilt>
+              <div class="pc-media"><img src="${IMG.team}" alt="Indian corporate team collaborating around a laptop in a modern office" loading="lazy"></div>
               <div class="pc-top">
                 <div class="pc-icon">${ic("users")}</div>
                 <span class="badge-pop">Popular</span>
@@ -1157,30 +1163,35 @@ const homeBody = `
 
         <div class="bento" data-stagger>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.businesswoman}" alt="Indian HR professional reviewing payroll reports" loading="lazy"></div>
             <div class="pc-top"><div class="pc-icon">${ic("wallet")}</div><span class="badge-pop">Core</span></div>
             <h3>Spine Payroll</h3>
             <p>On-time, compliant payroll without the headaches.</p>
             <a class="link-arrow" href="spine-payroll.html">Learn More ${ic("arrow-right")}</a>
           </div>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.team}" alt="Indian corporate team collaborating in a modern office" loading="lazy"></div>
             <div class="pc-top"><div class="pc-icon">${ic("users")}</div><span class="badge-pop">Core</span></div>
             <h3>Spine HR Suite</h3>
             <p>Complete HR management, hire to retire.</p>
             <a class="link-arrow" href="spine-hr-suite.html">Learn More ${ic("arrow-right")}</a>
           </div>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.developer}" alt="Indian software developer writing code on a dual-monitor workstation" loading="lazy"></div>
             <div class="pc-top"><div class="pc-icon">${ic("code")}</div></div>
             <h3>App Development</h3>
             <p>Websites, web apps and mobile apps, built end to end.</p>
             <a class="link-arrow" href="app-development.html">Learn More ${ic("arrow-right")}</a>
           </div>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.couch}" alt="Kanvtech consultant walking a client through a custom software proposal" loading="lazy"></div>
             <div class="pc-top"><div class="pc-icon">${ic("settings-2")}</div></div>
             <h3>Custom Software</h3>
             <p>Software made for your exact process.</p>
             <a class="link-arrow" href="customize-solutions.html">Learn More ${ic("arrow-right")}</a>
           </div>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.serverRack}" alt="Data center server racks representing managed cloud hosting" loading="lazy"></div>
             <div class="pc-top"><div class="pc-icon">${ic("server-cog")}</div></div>
             <h3>Cloud Server</h3>
             <p>Secure, scalable, fully managed cloud hosting.</p>
@@ -1562,6 +1573,7 @@ ${ctaBand("Let's Build Something That Works for You", "Tell us what your busines
 function hubCard(slug, blurb) {
   const s = bySlug[slug];
   return `          <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${s.image.src}" alt="${s.image.alt}" loading="lazy"></div>
             <div class="pc-top">
               <div class="pc-icon">${ic(s.icon)}</div>
               ${s.pop ? '<span class="badge-pop">Popular</span>' : ""}
@@ -1646,18 +1658,20 @@ ${hubCard("tally-add-on", "Add extra features to Tally — security, automation,
         </div>
         <div class="feat-grid" data-stagger style="grid-template-columns:repeat(2,1fr)">
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.analytics}" alt="Business analytics dashboard with charts on a computer screen" loading="lazy"></div>
             <div class="pc-top">
               <div class="pc-icon">${ic("chart-line")}</div>
-              <span class="badge-pop" style="color:var(--cyan); border-color:rgba(24,195,230,.35); background:rgba(24,195,230,.1); box-shadow:none">Coming Soon</span>
+              <span class="badge-pop" style="color:var(--blue); border-color:rgba(14,78,168,.3); background:rgba(14,78,168,.08); box-shadow:none">Coming Soon</span>
             </div>
             <h3>Business Analytics</h3>
             <p>Turn your business data into clear, actionable insights.</p>
             <a class="link-arrow" href="contact-us.html?for=Business%20Analytics#enquiry">Enquire Now ${ic("arrow-right")}</a>
           </div>
           <div class="product-card" data-tilt>
+            <div class="pc-media"><img src="${IMG.biometric}" alt="Modern biometric fingerprint access control device" loading="lazy"></div>
             <div class="pc-top">
               <div class="pc-icon">${ic("fingerprint")}</div>
-              <span class="badge-pop" style="color:var(--cyan); border-color:rgba(24,195,230,.35); background:rgba(24,195,230,.1); box-shadow:none">Coming Soon</span>
+              <span class="badge-pop" style="color:var(--blue); border-color:rgba(14,78,168,.3); background:rgba(14,78,168,.08); box-shadow:none">Coming Soon</span>
             </div>
             <h3>Biometric Device</h3>
             <p>Reliable biometric attendance that connects straight to your HR and payroll.</p>

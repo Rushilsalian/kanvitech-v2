@@ -126,87 +126,6 @@
     });
   }
 
-  /* ---------- Cursor glow ---------- */
-  if (!isTouch && !prefersReduced) {
-    var glow = document.createElement("div");
-    glow.className = "cursor-glow";
-    document.body.appendChild(glow);
-    var gx = -400, gy = -400, tx = gx, ty = gy;
-    window.addEventListener("mousemove", function (e) { tx = e.clientX; ty = e.clientY; }, { passive: true });
-    (function moveGlow() {
-      gx += (tx - gx) * 0.12;
-      gy += (ty - gy) * 0.12;
-      glow.style.transform = "translate(" + gx + "px," + gy + "px)";
-      requestAnimationFrame(moveGlow);
-    })();
-  }
-
-  /* ---------- Hero particles ---------- */
-  var canvas = document.getElementById("particles");
-  if (canvas && !prefersReduced) {
-    var ctx = canvas.getContext("2d");
-    var particles = [];
-    var W, H;
-    var COUNT = isTouch ? 22 : 46;
-
-    function sizeCanvas() {
-      var r = canvas.parentElement.getBoundingClientRect();
-      W = canvas.width = r.width;
-      H = canvas.height = r.height;
-    }
-    sizeCanvas();
-    window.addEventListener("resize", sizeCanvas);
-
-    for (var i = 0; i < COUNT; i++) {
-      particles.push({
-        x: Math.random(), y: Math.random(),
-        vx: (Math.random() - 0.5) * 0.00035,
-        vy: (Math.random() - 0.5) * 0.00035,
-        r: Math.random() * 1.8 + 0.4,
-        warm: Math.random() < 0.12
-      });
-    }
-
-    var visible = true;
-    if ("IntersectionObserver" in window) {
-      new IntersectionObserver(function (entries) {
-        visible = entries[0].isIntersecting;
-      }).observe(canvas);
-    }
-
-    (function drawParticles() {
-      requestAnimationFrame(drawParticles);
-      if (!visible || !W) return;
-      ctx.clearRect(0, 0, W, H);
-      var linkDist = 0.11;
-      for (var i = 0; i < COUNT; i++) {
-        var p = particles[i];
-        p.x += p.vx; p.y += p.vy;
-        if (p.x < 0 || p.x > 1) p.vx *= -1;
-        if (p.y < 0 || p.y > 1) p.vy *= -1;
-
-        ctx.beginPath();
-        ctx.arc(p.x * W, p.y * H, p.r, 0, Math.PI * 2);
-        ctx.fillStyle = p.warm ? "rgba(245,158,11,0.55)" : "rgba(24,195,230,0.5)";
-        ctx.fill();
-
-        for (var j = i + 1; j < COUNT; j++) {
-          var q = particles[j];
-          var dx = p.x - q.x, dy = p.y - q.y;
-          var dist = Math.sqrt(dx * dx + dy * dy);
-          if (dist < linkDist) {
-            ctx.beginPath();
-            ctx.moveTo(p.x * W, p.y * H);
-            ctx.lineTo(q.x * W, q.y * H);
-            ctx.strokeStyle = "rgba(24,195,230," + (0.14 * (1 - dist / linkDist)) + ")";
-            ctx.lineWidth = 1;
-            ctx.stroke();
-          }
-        }
-      }
-    })();
-  }
-
   /* ---------- GSAP scroll animations ---------- */
   if (hasGSAP && window.ScrollTrigger && !prefersReduced) {
     gsap.registerPlugin(ScrollTrigger);
@@ -224,16 +143,16 @@
         case "down":  v.y = -40; v.duration = 0.55; v.ease = "power3.out"; break;
         case "left":  v.x = -80; v.duration = 0.62; break;
         case "right": v.x = 80;  v.duration = 0.62; break;
-        case "slide": v.x = 120; v.duration = 0.7; v.ease = "expo.out"; break;
-        case "scale": v.scale = 0.86; v.y = 22; v.duration = 0.55; v.ease = "back.out(1.5)"; break;
-        case "pop":   v.scale = 0.6; v.duration = 0.5; v.ease = "back.out(1.9)"; break;
+        case "slide": v.x = 120; v.duration = 0.65; v.ease = "expo.out"; break;
+        case "scale": v.scale = 0.86; v.y = 22; v.duration = 0.5; v.ease = "back.out(1.5)"; break;
+        case "pop":   v.scale = 0.6; v.duration = 0.45; v.ease = "back.out(1.9)"; break;
         // clip-path wipes — reveal images/panels like a curtain, no opacity fade
-        case "clip":  v.clipPath = "inset(0 0 100% 0)"; v.opacity = 1; v.duration = 0.78; v.ease = "expo.out"; break;
-        case "wipe":  v.clipPath = "inset(0 100% 0 0)"; v.opacity = 1; v.duration = 0.72; v.ease = "expo.out"; break;
-        case "mask":  v.clipPath = "inset(0 0 0 100%)"; v.opacity = 1; v.duration = 0.8;  v.ease = "expo.out"; break;
-        case "diag":  v.clipPath = "polygon(0 0,0 0,0 100%,0 100%)"; v.opacity = 1; v.x = -30; v.duration = 0.8; v.ease = "expo.out"; break;
-        case "blur":  v.filter = "blur(16px)"; v.y = 20; v.duration = 0.6; break;
-        case "rise":  v.y = 90; v.duration = 0.72; v.ease = "expo.out"; break;
+        case "clip":  v.clipPath = "inset(0 0 100% 0)"; v.opacity = 1; v.duration = 0.65; v.ease = "expo.out"; break;
+        case "wipe":  v.clipPath = "inset(0 100% 0 0)"; v.opacity = 1; v.duration = 0.6; v.ease = "expo.out"; break;
+        case "mask":  v.clipPath = "inset(0 0 0 100%)"; v.opacity = 1; v.duration = 0.65;  v.ease = "expo.out"; break;
+        case "diag":  v.clipPath = "polygon(0 0,0 0,0 100%,0 100%)"; v.opacity = 1; v.x = -30; v.duration = 0.65; v.ease = "expo.out"; break;
+        case "blur":  v.filter = "blur(16px)"; v.y = 20; v.duration = 0.55; break;
+        case "rise":  v.y = 90; v.duration = 0.65; v.ease = "expo.out"; break;
         default:      v.y = 40; v.duration = 0.55;
       }
       return v;
@@ -318,7 +237,7 @@
       if (actions) tl.from(actions.children, { y: 18, opacity: 0, duration: 0.45, stagger: 0.06, ease: "power3.out" }, "-=0.35");
       if (ticks) tl.from(ticks, { opacity: 0, duration: 0.5 }, "-=0.25");
       // Visual masks in from the right rather than a slow slide.
-      if (visual) tl.from(visual, { clipPath: "inset(0 0 0 100%)", duration: 0.8, ease: "expo.out", clearProps: "clipPath" }, "-=0.9");
+      if (visual) tl.from(visual, { clipPath: "inset(0 0 0 100%)", duration: 0.65, ease: "expo.out", clearProps: "clipPath" }, "-=0.75");
       if (floats.length) tl.from(floats, { y: 30, opacity: 0, scale: 0.85, duration: 0.5, stagger: 0.1, ease: "back.out(1.6)", clearProps: "opacity,scale,transform" }, "-=0.5");
     }
   }
